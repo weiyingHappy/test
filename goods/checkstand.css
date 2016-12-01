@@ -219,7 +219,6 @@ img {
 }
 .similar {
   font-size: 26px;
-  overflow: hidden;
 }
 [data-dpr='1'] .similar {
   font-size: 13px;
